@@ -1,0 +1,62 @@
+﻿@using WEBSHOP.Models;
+@model CartItem
+@{
+    ViewBag.Title = "SuaGioHang";
+    Layout = "~/Views/Shared/_NewLayout.cshtml";
+}
+@{
+    List<CartItem> listGioHang = ViewBag.GioHang as List<CartItem>;
+}
+<div class="col-md-9 product1">
+    <table class="table">
+        <tr>
+            <td>Mã SP</td>
+            <td>Tên SP</td>
+            <td>Hình ảnh</td>
+            <td>Số lượng</td>
+            <td>Đơn giá</td>
+            <td>Thành tiền</td>
+        </tr>
+
+        @foreach (var item in listGioHang)
+        {
+            //sản phẩm có mã sp được chỉnh sửa gửi từ tham số bên trang giỏ hàng
+            if (Model.ProductID == item.ProductID)
+            {
+                using (Html.BeginForm("CapNhatGioHang", "Cart"))
+                {
+                    <tr>
+                       
+                        <td>@item.ProductID@Html.Hidden("MaSP", item.ProductID)</td>
+                        <td>@item.ProductName</td>
+                        <td><img src="@Url.Content("~/Assets/Client/ImageProduct/" + item.Image)" width="150" height="150" /></td>
+                        <td>@Html.TextBox("SoLuong", item.SoLuong)</td>
+                        <td>@item.DonGia.ToString("#,##")</td>
+                        <td>@item.ThanhTien</td>
+                        <td>
+                            @Html.ActionLink("Sửa", "SuaGioHang", new { @MaSP = item.ProductID })
+                            @Html.ActionLink("Xoa", "XoaGioHang", new { @MaSP = item.ProductID })
+                        </td>
+                        <td>
+                            <input type="submit" value="Cập nhật" />
+                            @Html.ActionLink("Xoa", "XoaGioHang", new { @MaSP = item.ProductID })
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td>@item.ProductID</td>
+                    <td>@item.ProductName</td>
+                    <td><img src="@Url.Content("~/Content/client/imgsp/"+item.Image)" width="150" height="50" /></td>
+                    <td>@item.SoLuong</td>
+                    <td>@item.DonGia.ToString("#,##")</td>
+                    <td>@item.ThanhTien</td>
+                    <td>@Html.ActionLink("Sửa", "SuaGioHang", new { @MaSP = item.ProductID })</td>
+                </tr>
+            }
+        }
+    </table>
+</div>
+

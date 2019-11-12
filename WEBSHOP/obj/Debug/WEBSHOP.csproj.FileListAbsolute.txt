@@ -1,0 +1,105 @@
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\ApplicationInsights.config
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\csc.exe
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\vbc.exe
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Model.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Model.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AI.Web.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.Helpers.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.Mvc.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.Optimization.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.Razor.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.WebPages.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\System.Web.WebPages.Razor.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Antlr3.Runtime.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.Google.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.dll
+c:\users\pc\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.pdb
+C:\Users\PC\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\PagedList.xml
+C:\Users\PC\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\PagedList.Mvc.xml
+C:\Users\PC\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Common.dll
+C:\Users\PC\documents\visual studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Common.pdb
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\ApplicationInsights.config
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\csc.exe
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\vbc.exe
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll.config
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\WEBSHOP.pdb
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Common.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Model.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Common.pdb
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\Model.pdb
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.pdb
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\BotDetect.dll
+E:\Visual Studio 2015\Projects\WEBSHOP\WEBSHOP\bin\BotDetect.Web.Mvc.dll
+F:\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.csprojResolveAssemblyReference.cache
+F:\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.dll
+F:\WEBSHOP\WEBSHOP\obj\Debug\WEBSHOP.pdb
+F:\WEBSHOP\WEBSHOP\bin\ApplicationInsights.config
+F:\WEBSHOP\WEBSHOP\bin\roslyn\csc.exe
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WEBSHOP\WEBSHOP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WEBSHOP\WEBSHOP\bin\roslyn\System.Collections.Immutable.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\System.Reflection.Metadata.dll
+F:\WEBSHOP\WEBSHOP\bin\roslyn\vbc.exe
+F:\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe
+F:\WEBSHOP\WEBSHOP\bin\roslyn\VBCSCompiler.exe.config
+F:\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll.config
+F:\WEBSHOP\WEBSHOP\bin\WEBSHOP.dll
+F:\WEBSHOP\WEBSHOP\bin\WEBSHOP.pdb
+F:\WEBSHOP\WEBSHOP\bin\BotDetect.dll
+F:\WEBSHOP\WEBSHOP\bin\BotDetect.Web.Mvc.dll
+F:\WEBSHOP\WEBSHOP\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\WEBSHOP\WEBSHOP\bin\Model.dll
+F:\WEBSHOP\WEBSHOP\bin\Model.pdb
